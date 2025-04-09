@@ -14,7 +14,7 @@ Team 7419 QLS Tech Support instills technical expertise and collaboration in eve
 
 ## About Us
 
-Team 7419 is a dedicated group of high school students from [The Quarry Lane School](https://www.thequarrylaneschool.com) in Dublin, CA. Founded in 2018 by passionate students and teachers, we have competed at world championships three times and continue to grow year over year.
+Team 7419 is a dedicated group of high school students from [The Quarry Lane School](https://www.thequarrylaneschool.com) in Dublin, CA. Founded in 2018 by passionate students and teachers, we have competed at world championships three times and continue to grow year after year.
 
 ### What We Do
 
@@ -22,14 +22,7 @@ Team 7419 is a dedicated group of high school students from [The Quarry Lane Sch
   We design, build, and program robots for the FIRST Robotics Competition.  
   - **Programming:** Our team uses Java to develop complex behaviors and autonomous routines.  
   - **Mechanical Engineering:** We fabricate custom robot parts with CNC machines and manual mills.  
-  - **Electrical Engineering:** We integrate control systems, sensors, and pneumatics to bring our robots to life.
-
-- **Mentorship & Outreach:**  
-  We believe in sharing knowledge and inspiring future innovators.  
-  - **FLL Teams:** QLS MiniBytes, MegaBytes, CloudBots, PoppeBots, HopperBots, 5-G, Creators, and FlashBots.  
-  - **FTC Teams:** B.R.O., QLS RaD Team, Control+Q, HotsBots, Glitch, Innovix, and more.  
-  - **Special Initiatives:** Our all-girls teams, HotsBots and Innovix, highlight our commitment to diversity in STEM through our Society of Women Engineers chapter.
-
+  - **Electrical Engineering:** We integrate control systems, sensors, and more to bring our robots to life.
 
 ## Our Values
 
